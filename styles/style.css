@@ -32,6 +32,7 @@ section {
     align-items: center;
     border: solid 2px var(--color1);
     margin-top: 5px;
+    padding: 5px;
 }
 
 header {
@@ -66,6 +67,14 @@ h2 {
     font-weight: bold;
     color: var(--color2);
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3 {
+    font-size: 25px;
+    font-weight: bolder;
+    color: purple;
+    padding: 1px;
+    justify-content: center;
+    align-items: center;
 }
 
 .calculator {
